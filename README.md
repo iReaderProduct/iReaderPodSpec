@@ -1,1 +1,1 @@
-# iReaderPodSepec
+# iReaderPodSpec
